@@ -12,3 +12,4 @@ http://rehostserver.cybersafe.ezyro.com/downloads/ or the releases page
 Changelog:
 <br>
 See https://github.com/CyberSafe-Labs/ReHostServer2/releases/tag/v2.0.0 for changelog
+Code Reviewed By Codacy 
