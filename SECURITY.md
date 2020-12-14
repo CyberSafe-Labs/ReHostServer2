@@ -14,4 +14,6 @@ It includes SSL support
 
 Security updates include patched vunrabilites
 
+ReHost Server 2 has CodeQL, DependaBot and Codacy Enabled issuses are most likely fixed
+
 If you find a Security Issuse please send them to admin@cybersafe.ezyro.com
