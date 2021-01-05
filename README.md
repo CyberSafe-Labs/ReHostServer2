@@ -1,4 +1,6 @@
 # ReHostServer2
+[![Gitter](https://badges.gitter.im/CyberSafeDevs/community.svg)](https://gitter.im/CyberSafeDevs/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+<br>
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/3d0ee1ce6f4047698ea538ab90bac1df)](https://www.codacy.com/gh/CyberSafe-Labs/ReHostServer2/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=CyberSafe-Labs/ReHostServer2&amp;utm_campaign=Badge_Grade)
 <br>
 Made with:
